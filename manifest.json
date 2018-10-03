@@ -1,0 +1,15 @@
+{
+	"files": {
+		"README.md": "0243a24c141c51ee13eb2a0dadfeaa9a0498599cb731221bae027baa37345c7a",
+		"config.json": {
+			"overwrite": false,
+			"hash": "11e7ca8722b88776ccfed5d2c1afdd6cdc320d9a3f217ee571976e359262fa63"
+		},
+		"index.js": "c20844f8325c2af77ff15d539117d65efeb008313b221f81331edc9e6d6bc104",
+		"module.json": "aeb717e8ff260b84e7d68839e1699d680c0b531ceb35b09e1e57d1782179d3f8"
+	},
+	"defs": {
+		"C_END_MOVIE": 1,
+		"S_PLAY_MOVIE": 1
+	}
+}
